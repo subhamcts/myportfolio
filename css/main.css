@@ -1,0 +1,62 @@
+/*---- Global Settings ----*/
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+} 
+
+body {
+    background-color: thistle;
+    color: #343434;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+img {
+    width: 300px;
+}
+
+
+h1 {
+    /* color: #00014A ; */
+    margin: 0px;
+/*    text-align: center;*/
+}
+
+h2 {
+    /* color: blueviolet; */
+    margin: 0px;
+}
+
+h3 {
+    margin: 5px 0px; 
+}
+
+.imp {
+    color: rebeccapurple ;           
+}
+
+ .aht {                      
+    color: darkblue;
+}
+
+/* Profile Section
+------------------------*/
+header {
+    background-color: #00014A;
+    color: whitesmoke;
+    /* padding: 5px; */
+    /* height: 170px; */
+    /* border: 4px; */
+    text-align: center;
+    line-height: 1.2;
+}
+
+header img {
+    float: left;
+    width: 180px;
+    height: 104px;
+    padding-right: 25px;
