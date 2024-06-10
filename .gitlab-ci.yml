@@ -2,9 +2,6 @@ stages:
   - deploy
 
 variables:
-  #AWS_ACCESS_KEY_ID: "AKIAZQ3DOYSH7IFNXBHH"
-  #AWS_SECRET_ACCESS_KEY: "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"
-  #AWS_DEFAULT_REGION: "us-east-1"
   S3_BUCKET_NAME: "nss-portfolio-hosting"
   DISTRIBUTION_ID: "EI5PEFP60BD65"
 
